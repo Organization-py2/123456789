@@ -1,0 +1,2 @@
+google is 10^100
+googleplex is 10^google
